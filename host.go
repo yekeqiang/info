@@ -56,3 +56,4 @@ func (a *Agent) HostName() (*HostName, error) {
 
 	return &HostName{hostname, boot, d.String()}, nil
 }
+
