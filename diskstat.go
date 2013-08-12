@@ -8,7 +8,7 @@
 package info
 
 import (
-  "io/ioutil"
+  	"io/ioutil"
 	"strings"
 )
 
