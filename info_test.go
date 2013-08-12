@@ -12,6 +12,7 @@ import (
 	"testing"
 )
 
+
 var agent = DefaultAgent
 
 func TestHostName(t *testing.T) {
