@@ -4,7 +4,6 @@
  * Date: 13-8-8
  * Time: 上午9:47
  * To change this template use File | Settings | File Templates.
- * 获取系统运行时间等情况
  */
 package info
 
