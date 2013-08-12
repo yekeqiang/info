@@ -1,7 +1,7 @@
 info
 ====
 // info 使用说明
-// author zhangye mailTo{zhangye@xiaomi.com; jiangyeziwh@gmail.com}
+// author zhangye mailTo{jiangyeziwh@gmail.com}
 一、
 1、info.go 用于获取
     HostName 系统运行情况, hostname， 登陆开始时间, 登陆时间
