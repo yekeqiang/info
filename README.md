@@ -25,14 +25,15 @@ info
 package main
 
 import (
-  f "fmt"
+  	f "fmt"
 	"info"
 )
 
 var agent = info.DefaultAgent
 
 func main() {
-    // 获取系统信息
+	
+	// 获取系统信息
 	system := agent.System()
 	f.Println(system.System2String())
 
