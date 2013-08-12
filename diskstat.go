@@ -73,3 +73,4 @@ func (a *Agent) DiskStat() ([]DiskStat, error) {
 	}
 	return diskstats, nil
 }
+
